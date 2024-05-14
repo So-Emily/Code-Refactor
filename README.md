@@ -1,5 +1,11 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## My First Bootcamp Project
+This project or homework was to refactor and make a website more accessibile for th client
+
+Including adding alt text, specific html section tags and the css shortened to go with it.
+
+## Assignment 
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
