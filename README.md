@@ -4,7 +4,7 @@ The starting challenge of all the challenges to come. This code was pretty much 
 
 ![website-snippet-C1](https://github.com/So-Emily/Code-Refactor/assets/10500315/f9059333-bbfd-4549-86d9-b45cfd670001)
 
-##Executing Code
+## Executing Code
 This Project can be run through a Pages Github link:
 
 https://so-emily.github.io/Code-Refactor/
