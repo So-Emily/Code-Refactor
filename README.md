@@ -1,3 +1,18 @@
+# Code Refactoring
+## Description
+The starting challenge of all the challenges to come. This code was pretty much done, it just needed to be condensed and made a bit prettier. So I worked on combining things in the CSS and changing tags in the HTML so that they will make more sense and all be divs or sections.
+
+![website-snippet-C1](https://github.com/So-Emily/Code-Refactor/assets/10500315/f9059333-bbfd-4549-86d9-b45cfd670001)
+
+##Executing Code
+This Project can be run through a Pages Github link:
+
+https://so-emily.github.io/Code-Refactor/
+
+
+<br>
+<be>
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## My First Bootcamp Project
